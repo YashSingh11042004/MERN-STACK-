@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>Document</title>
+</head>
+<body>
+      <hr>
+          <p>I am student with<b>9.78</b> SPI</p>
+          <p>I studied computer engineering in silver oak university</p>
+          <p>i live in xyz city</p>
+          <p>i live in xyz time</p>
+      <hr>
+</body>
+</html>
