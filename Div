@@ -6,7 +6,7 @@
           <title>My boilore point</title>
 </head>
 <body>
-     <div>
+     <div> //div is  used  block where we can merge all the element
           <a href="www.google.com">GOOGLE</a>
           <a href="www.facebook.com">FACEBOOK</a>
      </div>
