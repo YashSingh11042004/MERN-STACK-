@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>Document</title>
+</head>
+<body>
+          <hr>
+          <h1>YASH SINGH</h1>
+          <img  src="https://media.licdn.com/dms/image/v2/D4D03AQHPkgPSrxEGGQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1727344734106?e=1744243200&v=beta&t=mwRFJycIqXwOSb1Kzi2XHRRcWyQxn-sy5MsnnC3JZ9M" alt="controls" style="width: 150px;">
+          <p>i love to teach</p>
+          <hr>
+               <hr>
+          <h2>Education</h2>
+          <ul>
+                    <li><b>M.B Patel English Medium Primary School</b>         9.67SPI</li>
+                    <li><b>Silver Oak University</b>                              9.72SPI</li>
+          </ul>
+          <hr>
+               <hr>
+          <h3>Skill</h3>
+          <ul>
+                    <li><b>Frontend: Html,CSS,Javascript</b></li>
+                    <li><b>Backend:  MongoDB,ExpressJS,ReactJS,NodeJS</b></li>
+                    <li><b>Tools:    VScode</b></li>
+          </ul>
+          <hr>
+          <hr>
+          <h4>Hobbies</h4>
+                    <ul>
+                      <li> <b>Trivelling </b> </li>
+                    </ul>
+                    <hr>
+          <hr>
+          <h5>Contact</h5>
+          <ul>
+                    <li> <b> Phone </b>  :123321123</li>
+                    <li> <b> Email </b> :yashsingh1122@.bmail.hom</li>
+                    <li> <a href="https://www.linkedin.com/in/yash-singh-852474255/">LinkedIN</a></li>
+          </ul>
+          <hr>
+          
+</body>
+</html>
