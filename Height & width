@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>Document</title>
+          <link rel="stylesheet" href="style.css">
+</head>
+<body>
+          <h1>Headline</h1>
+          <div>
+                    The Freestyle Chess Grand Slam Tour, which starts on 7 February
+                     (Friday) in Germany, presents the first opportunity to see the 
+                     new world champion D Gukesh take on world No.1 Magnus Carlsen. 
+                     The 18-year-old Grandmaster from India, Gukesh, won the World
+                      Chess Championship last year by beating Ding Liren. 
+          </div>
+          <div>
+                    Carlsen had held the World Chess Championship title since 2013
+                     but decided against defending it in 2022. 
+          </div>
+</body>
+</html>
+
+
+//css part
+div {
+          height: 200px;
+          width: 400px;
+          background-color: blue;
+}
