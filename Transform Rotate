@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>Document</title>
+          <link rel="stylesheet" href="style.css">
+</head>
+<body>
+          <div id="one">I am Software Engineer</div>
+          <div id="two">I am Software Engineer1</div>
+          <div id="three">I am Software Engineer2</div>
+          <div id="four">I am Software Engineer3</div>
+</body>
+</html>
+
+
+//css
+div{
+          margin: 20px;
+          width: 200px;
+          height: 100px;
+          background-color: aqua;
+          border: 2px solid black;
+}    
+
+div:nth-of-type(2n){
+          background-color: red;
+}
+
+div:nth-of-type(3n){
+          background-color: blue;
+}
+#one{
+          transform: rotate(45deg);
+}
+#two{
+          tranform: rotate(90deg);
+}
+#three{
+          transform: rotate(135deg);
+}
+#four{
+          transform: rotate(180deg);
+}
