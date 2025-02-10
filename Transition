@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>Document</title>
+          <link rel="stylesheet" href="style.css">
+</head>
+<body>
+          <div>
+
+          </div>
+</body>
+</html>
+
+//css
+div{
+          background-color: rgba(234, 0, 0, 1);
+          width: 200px;
+          height: 200px;
+          opacity: 1;
+}
+div:hover{
+          background-color: green;
+          transition: 5s;
+}
