@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Animation</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div>
+		<h1>Yash Singh</h1>
+	</div>
+</body>
+</html>
+
+//css
+div{
+	background-color: orangered;
+	border: 1px solid black;
+	animation-name: animation;
+	animation-duration: 3s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+	animation-timing-function: ease-in-out;
+	animation-delay: 1s;
+
+}
+@keyframes animation{
+	from{
+		width: 200px;
+	}
+	to{
+		width: 400px;
+	}
+}
